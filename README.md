@@ -25,7 +25,7 @@ Programa desenvolvido em Python para registrar informações de pessoas e realiz
 ## Como executar
 
 ```bash
-python analise_dados.py
+python data-analysis.py
 ```
 
 ## Objetivo
